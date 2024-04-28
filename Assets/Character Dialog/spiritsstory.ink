@@ -1,12 +1,12 @@
-Hello, sweet child. I am the dryad who protects this incredibly small patch of land... don't stray too far, for you might fall off. I have a service I must ask of you.
+Hello, sweet child. I am the dryad who protects this... incredibly small patch of land... don't stray too far, for you might fall off. I have a service I must ask of you.
 -> choices
     
 == choices ==
     * What must I do?
-       - - - You see that wand you hold in your hand? Use it to cleanse the spirits around the land.
+       - - - You see that wand you hold in your hand? Use it to cleanse the spirits around the land (F on your keyboard).
     -> choices
-    * How do I use my wand?
-        - - - On your keyboard, you will press key F.
+    * Who are you?
+       - - - I literally just told you I'm the dryad who protects this land. Were you not listening?
     
-- Good luck, child.
+- Anyways, good luck, child.
 -> END
