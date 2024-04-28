@@ -12,9 +12,9 @@
 - Terrain
 
 # References to resources used in the project
-Materials used from FreePBR[https://freepbr.com/]
+Materials used from [FreePBR](https://freepbr.com/)
 
-Character models and some animations from Mixamo[https://www.mixamo.com/#/]
+Character models and some animations from [Mixamo](https://www.mixamo.com/#/)
 
 # Created by
 Olvie Belcher
